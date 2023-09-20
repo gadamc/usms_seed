@@ -11,6 +11,14 @@
 > poetry install
 ```
 
+## Run App
+
+Built as a streamlit app
+
+```
+> streamlit run usms_seed/application/myapp.py
+```
+
 # Notes
 
 What kind of model do I need to build?
